@@ -10,8 +10,6 @@
     "music",
     "bot"
   ],
-  "author": "Gabriel Tanner",
-  "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.8.0",
     "discord-player": "^5.3.1",
